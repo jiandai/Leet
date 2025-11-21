@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/reverse-integer/description/
+# Runtime >42.01%, Memory >57.35%
 class Solution:
     def reverse(self, x: int) -> int:
         if x==0:
